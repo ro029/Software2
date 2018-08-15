@@ -1,1 +1,2 @@
-abc
+clase 0
+clase 2
