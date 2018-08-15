@@ -1,2 +1,5 @@
 clase 0
 clase 2
+clase -1
+clase -2
+clase -3
